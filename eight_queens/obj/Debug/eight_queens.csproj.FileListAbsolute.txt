@@ -1,0 +1,6 @@
+C:\Users\ivy\Documents\GitHub\Check_Desk\eight_queens\eight_queens\bin\Debug\eight_queens.exe.config
+C:\Users\ivy\Documents\GitHub\Check_Desk\eight_queens\eight_queens\obj\Debug\eight_queens.csprojResolveAssemblyReference.cache
+C:\Users\ivy\Documents\GitHub\Check_Desk\eight_queens\eight_queens\bin\Debug\eight_queens.exe
+C:\Users\ivy\Documents\GitHub\Check_Desk\eight_queens\eight_queens\bin\Debug\eight_queens.pdb
+C:\Users\ivy\Documents\GitHub\Check_Desk\eight_queens\eight_queens\obj\Debug\eight_queens.exe
+C:\Users\ivy\Documents\GitHub\Check_Desk\eight_queens\eight_queens\obj\Debug\eight_queens.pdb
